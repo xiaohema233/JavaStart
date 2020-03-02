@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/02_如何使用JDK提供的帮助文档" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/03_代码块概述和讲解" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/04_继承" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01_帮助文档的制作和使用" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
