@@ -1,3 +1,5 @@
+package AbstractTest;
+
 /*
 	猫狗案例
 		具体事物：猫，狗

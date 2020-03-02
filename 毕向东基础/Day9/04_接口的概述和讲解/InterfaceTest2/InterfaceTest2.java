@@ -1,3 +1,5 @@
+package InterfaceTest2;
+
 /*
 	老师和学生案例,加入抽烟的额外功能
 	

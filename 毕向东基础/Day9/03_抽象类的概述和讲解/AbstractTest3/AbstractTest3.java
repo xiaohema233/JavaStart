@@ -1,3 +1,5 @@
+package AbstractTest3;
+
 /*
 	学生案例
 		具体事务：基础班学员，就业班学员

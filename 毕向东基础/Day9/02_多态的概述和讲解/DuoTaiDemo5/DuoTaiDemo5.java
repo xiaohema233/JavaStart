@@ -1,3 +1,4 @@
+package DuoTaiDemo5;
 /*
 	ClassCastException:类型转换异常
 	一般在多态的向下转型中容易出现

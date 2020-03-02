@@ -1,3 +1,5 @@
+package InterfaceDemo;
+
 /*
 	接口的特点：
 		A:接口用关键字interface表示	

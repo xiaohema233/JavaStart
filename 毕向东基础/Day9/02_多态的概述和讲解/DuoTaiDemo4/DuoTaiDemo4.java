@@ -1,3 +1,4 @@
+package DuoTaiDemo4;
 /*
 	多态的弊端：
 		不能使用子类的特有功能。

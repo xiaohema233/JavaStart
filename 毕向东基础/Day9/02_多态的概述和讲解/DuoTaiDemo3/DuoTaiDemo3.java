@@ -1,3 +1,4 @@
+package DuoTaiDemo3;
 /*
 	多态的弊端：
 		不能使用子类的特有功能。
@@ -24,6 +25,6 @@ class DuoTaiDemo3 {
 		//测试
 		Fu f = new Zi();
 		f.show();
-		f.method();
+//		f.method();
 	}
 }

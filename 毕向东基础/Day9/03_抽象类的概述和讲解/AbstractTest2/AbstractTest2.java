@@ -1,3 +1,5 @@
+package AbstractTest2;
+
 /*
 	老师案例
 		具体事物：基础班老师，就业班老师

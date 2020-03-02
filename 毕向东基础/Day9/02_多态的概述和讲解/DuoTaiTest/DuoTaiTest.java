@@ -1,3 +1,4 @@
+package DuoTaiTest;
 /*
 	多态练习：猫狗案例
 */

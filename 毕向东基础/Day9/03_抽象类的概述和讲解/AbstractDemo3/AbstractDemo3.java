@@ -1,3 +1,5 @@
+package AbstractDemo3;
+
 /*
 一个类如果没有抽象方法，可不可以定义为抽象类?如果可以，有什么意义?
 	A:可以。
@@ -17,7 +19,7 @@ abstract class Fu {
 	//final abstract void show();	
 	
 	//非法的修饰符组合
-	static abstract void show();
+//	static abstract void show();
 	
 	public static void method() {
 		System.out.println("method");
@@ -25,7 +27,7 @@ abstract class Fu {
 }
 
 class Zi extends Fu {
-	public void show() {}
+//	public void show() {}
 }
 
 class AbstractDemo3 {

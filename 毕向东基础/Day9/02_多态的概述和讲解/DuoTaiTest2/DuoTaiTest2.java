@@ -1,3 +1,4 @@
+package DuoTaiTest2;
 /*
 	不同地方饮食文化不同的案例
 */

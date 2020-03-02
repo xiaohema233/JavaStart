@@ -1,3 +1,5 @@
+package InterfaceTest;
+
 /*
 	猫狗案例,加入跳高的额外功能
 	

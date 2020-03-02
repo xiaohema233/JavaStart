@@ -1,3 +1,5 @@
+package InterfaceDemo2;
+
 /*
 	接口成员特点
 		成员变量；只能是常量，并且是静态的。

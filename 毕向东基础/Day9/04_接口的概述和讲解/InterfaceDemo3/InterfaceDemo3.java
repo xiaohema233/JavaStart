@@ -1,3 +1,5 @@
+package InterfaceDemo3;
+
 /*
 	类与类：
 		继承关系,只能单继承,可以多层继承。
@@ -15,12 +17,12 @@ interface Mother {
 	public abstract void show2();
 }
 
-interface Sister extends Father,Mother {
+interface Sister extends Father, Mother {
 
 }
 
 //class Son implements Father,Mother //多实现
-class Son extends Object implements Father,Mother {
+class Son extends Object implements Father, Mother {
 	public void show() {
 		System.out.println("show son");
 	}

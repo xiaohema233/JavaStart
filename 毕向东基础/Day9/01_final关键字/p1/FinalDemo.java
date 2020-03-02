@@ -1,4 +1,5 @@
-package p1;/*
+package p1;
+/*
 	final可以修饰类，方法，变量
 	
 	特点：
