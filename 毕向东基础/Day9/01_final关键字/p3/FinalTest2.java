@@ -7,7 +7,7 @@ package p3;
 */
 class Demo {
 	//int num = 10;
-	//final int num2 = 20;
+//	final int num2 = 20;
 	
 	int num;
 	final int num2;

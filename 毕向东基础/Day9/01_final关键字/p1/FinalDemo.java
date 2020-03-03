@@ -20,11 +20,11 @@ class Fu {
     public int num = 10;
     public final int num2 = 20;
 
-	/*
-	public final void show() {
-	
-	}
-	*/
+
+//	public final void show() {
+//
+//	}
+
 }
 
 class Zi extends Fu {
@@ -34,7 +34,7 @@ class Zi extends Fu {
         System.out.println(num);
 
         //无法为最终变量num2分配值
-        //num2 = 200;
+//        num2 = 200;
         System.out.println(num2);
     }
 }

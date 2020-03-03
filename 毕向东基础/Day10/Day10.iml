@@ -7,9 +7,10 @@
       <sourceFolder url="file://$MODULE_DIR$/02_形式参数和返回值的问题深入研究" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/04_修饰符的概述和总结" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/05_内部类概述和讲解" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03_包的概述和讲解/不同包下的类之间的访问" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03_包的概述和讲解/带包的编译和运行" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="03_包的概述和讲解" />
   </component>
 </module>
