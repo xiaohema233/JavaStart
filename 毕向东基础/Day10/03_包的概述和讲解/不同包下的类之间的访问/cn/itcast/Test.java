@@ -17,8 +17,6 @@
 */
 package cn.itcast;
 
-import com.liuyi.Demo;
-
 class Test {
 	public static void main(String[] args) {
 		//Demo d = new Demo();
